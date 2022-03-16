@@ -4,8 +4,8 @@ Files in CSV and Xlsx, they are containg updated scraped data about top web scra
 on https://khamsat.com.
 
 
-service_name
-service_description
+> service_name
+> service_description
 provider_name
 seller_tags
 avg_speed_reply
