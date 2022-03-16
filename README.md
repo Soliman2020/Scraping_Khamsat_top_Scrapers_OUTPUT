@@ -17,14 +17,19 @@ last_buyer_review
 service_Link
 seller_picture_link
 
-\begin{table}[]
-\begin{tabular}{lllll}
-service\_name        &  &  &  &  \\
-service\_description &  &  &  &  \\
-provider\_name       &  &  &  &  \\
-seller\_tags         &  &  &  & 
-\end{tabular}
-\end{table}
+
+service_name
+service_description
+provider_name
+seller_tags
+avg_speed_reply
+delivery_period
+number_of_buyers
+extra_service
+extra_service_price
+last_buyer_review
+service_Link
+seller_picture_link
 
 
 You are welcome to make use of the output files in the project.
