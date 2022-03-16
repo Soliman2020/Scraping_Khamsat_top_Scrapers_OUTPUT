@@ -4,8 +4,8 @@ Files in CSV and Xlsx, they are containg updated scraped data about top web scra
 on https://khamsat.com.
 
 
-> service_name
-> service_description
+service_name
+service_description
 provider_name
 seller_tags
 avg_speed_reply
@@ -16,6 +16,15 @@ extra_service_price
 last_buyer_review
 service_Link
 seller_picture_link
+
+\begin{table}[]
+\begin{tabular}{lllll}
+service\_name        &  &  &  &  \\
+service\_description &  &  &  &  \\
+provider\_name       &  &  &  &  \\
+seller\_tags         &  &  &  & 
+\end{tabular}
+\end{table}
 
 
 You are welcome to make use of the output files in the project.
