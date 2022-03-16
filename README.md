@@ -3,7 +3,7 @@
 Files in CSV and Xlsx, they are containg updated scraped data about top web scrapers
 on https://khamsat.com.
 
-
+** Columns:
 * service_name
 * service_description
 * provider_name
